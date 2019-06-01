@@ -1,2 +1,2 @@
 # brad-ochocki-dotcom
-My personal/professinoal website
+My personal/professional website
